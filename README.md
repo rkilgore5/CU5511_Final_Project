@@ -1,0 +1,1 @@
+This is a project to identify 20 different Lego elements, utilizing Lego element pictures and labels from https://www.kaggle.com/datasets/pacogarciam3/lego-brick-sorting-image-recognition/data?select=Cropped+Images.
